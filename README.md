@@ -1,6 +1,6 @@
 ## Description
 
-Bonjour , je me présente Joas brandon , j’ai 23 ans , actuellement en formation chez Philiance Formation en Developement Web , ou j’apprend à utiliser les langages de programmation tel que HTML/CSS , Javascript , PHP , PHP ORIENTE OBJET et WordPress.
+Bonjour, je me présente Joas brandon, j’ai 23 ans, actuellement en formation chez Philiance Formation en Developement Web , ou j’apprends à utiliser les langages de programmation tels que HTML/CSS , Javascript , PHP, PHP ORIENTE OBJET et WordPress.
 
 Lien vers mon depot GitHub : https://github.com/Brandonjooo/brandonjooo.github.io
 

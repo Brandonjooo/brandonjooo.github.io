@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Description
 
-You can use the [editor on GitHub](https://github.com/Brandonjooo/brandonjooo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Bonjour , je me présente Joas brandon , j’ai 23 ans , actuellement en formation chez Philiance Formation en Developement Web , ou j’apprend à utiliser les langages de programmation tel que HTML/CSS , Javascript , PHP , PHP ORIENTE OBJET et WordPress.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lien vers mon depot GitHub : https://github.com/Brandonjooo/brandonjooo.github.io
 
-### Markdown
+Lien vers ma page GitHub : https://github.com/Brandonjooo/Tp-wordpress
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CONTACT :
+Linkedin = https://www.linkedin.com/in/brandon-joas-2341a4226/
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Brandonjooo/brandonjooo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+MAIL : brandonjoas93@gmail.com
